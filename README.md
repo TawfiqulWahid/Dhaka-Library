@@ -1,2 +1,2 @@
 # Dhaka-Library
-Centralized public library management system
+My project is a wesbite for a centralized public library management system
